@@ -2,5 +2,8 @@ git+https://github.com/andnp/RlGlue@0.2#egg=RlGlue
 git+https://github.com/andnp/PyExpUtils@1.0#egg=PyExpUtils
 git+https://github.com/andnp/PyFixedReps@0.1#egg=PyFixedReps
 
+git+https://github.com/kenjyoung/minatar
+
+torch>=1.0.0
 matplotlib>=2.2.3
 pylint>=2.0.0
